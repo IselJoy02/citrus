@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Citrus</string>
+    <string name="black_spot"><b>Black Spot</b>\n
+
+        \n<b>Description:\n</b>Black spot disease, caused by the fungus Phyllosticta citricarpa, affects calamansi and other citrus plants. It is characterized by small, dark, sunken lesions on fruits, leaves, and stems, often surrounded by a yellow halo. This disease reduces fruit quality, market value, and overall yield.\n
+
+        \n<b>Management:\n</b>Regularly prune infected parts and maintain proper sanitation by removing fallen leaves and fruits. Apply copper-based or systemic fungicides like azoxystrobin and mancozeb at the early signs of infection. Use biological control agents such as Trichoderma and Bacillus subtilis to suppress the pathogen. Avoid overhead irrigation by using drip systems to minimize leaf wetness and reduce disease spread.
+
+    </string>
+
+    <string name="canker"><b>Canker</b>\n
+
+        \n<b>Description:\n</b>Canker disease, caused by the bacterium Xanthomonas citri subsp. citri, affects calamansi and other citrus plants. It is characterized by raised, rough, and corky lesions on fruits, leaves, and stems, often surrounded by a yellow halo. This disease can lead to defoliation, fruit drop, and reduced tree vigor, significantly impacting yield and fruit quality.\n
+        \n<b>Management:\n</b>Regularly prune and destroy infected plant parts to reduce the spread of bacteria. Apply copper-based bactericides as a preventive measure, especially during periods of high humidity. Use windbreaks to reduce the spread of bacteria carried by wind and rain. Avoid overhead irrigation to prevent water splash, which can spread the bacteria, and ensure proper tree spacing to improve air circulation around the plants.
+    </string>
+
+    <string name="greening"><b>Greening</b>\n
+
+        \n<b>Description:\n</b>Greening disease, also known as Huanglongbing (HLB), is one of the most destructive diseases affecting calamansi and other citrus plants. It is caused by the bacterium Candidatus Liberibacter spp., which is transmitted by the Asian citrus psyllid (Diaphorina citri). The disease leads to yellowing of the leaves, misshapen, bitter fruits, and stunted tree growth. Infected trees eventually decline and die, significantly impacting citrus production.\n
+        \n<b>Management:\n</b>Promptly remove and destroy infected trees to prevent the spread of the disease. Control the population of the Asian citrus psyllid using insecticides and natural predators like lady beetles. Use disease-free planting materials and graft onto resistant rootstocks when available. Regularly monitor citrus plants for symptoms of HLB and psyllid infestations, and maintain overall tree health through proper nutrition and irrigation to help reduce the impact of the disease.
+    </string>
+
+    <string name="about">
+        <b>The Calamansi Leaf Disease Classification app is an advanced tool designed to identify and classify common diseases affecting calamansi fruits, specifically black spot, canker, and greening. Utilizing state-of-the-art machine learning algorithms, the app analyzes images of calamansi fruits to detect and diagnose these three prevalent diseases. </b>
+
+    </string>
+
+    <string name="step1">Click this card view icon to access the camera window.</string>
+
+    <string name="step2">Click this camera icon button below to launch the camera, after taking the picture click the check button and wait for the result.</string>
+
+    <string name="step3">Just click the result to view the disease description and the management.</string>
+
+    <string name="step4">Disclaimer: This app is intended to train only for  classifying Calamansi Fruit Leaf with 3 classes of diseases, black spot, canker, greening if use to captureother leaf outside the training you get wrong result due to the algorithm of the classification.</string>
+
+    <string name="general"><b>General Management\n</b>
+        \nTo manage a calamansi (Philippine lime or calamondin) fruit tree effectively, ensure it\'s planted in a location with full sunlight, at least 6–8 hours daily, and in well-draining soil with a pH of 5.5 to 6.5, preferably sandy loam. For potted trees, use a quality citrus potting mix. Water the tree regularly, keeping the soil consistently moist but not waterlogged, and deep water weekly to encourage deep root growth, reducing frequency during the rainy season. Fertilize every 4–6 weeks with a balanced fertilizer like 16-16-16 NPK or a citrus-specific blend during the growing season, cutting back in winter.
+
+Prune the tree after fruiting or in early spring to maintain shape, improve air circulation, and remove dead or diseased branches. Monitor for common pests such as aphids, scale, mealybugs, and citrus leafminers, treating them with neem oil or insecticidal soap, and watch for diseases like citrus canker and root rot. Apply mulch around the base to retain moisture, suppress weeds, and regulate soil temperature, keeping it away from the trunk to prevent rot.
+
+Harvest fruits when they are bright green to yellow-orange, depending on your taste preference, using scissors or pruning shears to avoid damaging the tree. Protect the tree from cold weather with frost cloths or move potted trees indoors during freezing temperatures. Regularly inspect for nutrient deficiencies, such as yellowing leaves, which may indicate a lack of iron or magnesium. Following these steps will keep your calamansi tree healthy and productive.
+
+    </string>
+</resources>
